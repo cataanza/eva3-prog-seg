@@ -1,0 +1,23 @@
+¿Qué es un SGSI?
+Un SGSI (Sistema de Gestión de Seguridad de la Información) es un conjunto de políticas, procesos y herramientas que una organización implementa para proteger su información, asegurando su confidencialidad, integridad y disponibilidad.
+
+¿Cuáles son los tres pilares de la seguridad de la información?
+
+Confidencialidad: Proteger la información para que solo personas autorizadas puedan acceder a ella.
+Integridad: Garantizar que la información no sea alterada de manera no autorizada.
+Disponibilidad: Asegurar que la información esté accesible cuando se necesite.
+¿Qué describe la norma ISO 27001?
+La norma ISO 27001 establece los requisitos para implementar, mantener y mejorar un SGSI. Su objetivo es gestionar riesgos relacionados con la seguridad de la información en una organización.
+
+¿Qué diferencia hay entre el "qué" y el "cómo" en la ISO 27001?
+
+El "qué": La norma define qué requisitos debe cumplir un SGSI, como evaluar riesgos o implementar controles.
+El "cómo": Depende de cada organización decidir cómo implementar esos requisitos, adaptándose a su contexto y necesidades.
+¿En qué se basa el SGSI según la ISO 27001?
+Se basa en el enfoque de gestión de riesgos, donde se identifican, evalúan y tratan los riesgos para proteger la información.
+
+¿Qué son los controles en la ISO 27001 y dónde se encuentran?
+Los controles son medidas específicas para mitigar riesgos de seguridad. Están definidos en el Anexo A de la norma, que incluye 114 controles agrupados en 14 categorías, como control de acceso o seguridad física.
+
+¿Por qué es importante el apoyo de la alta dirección?
+Porque garantiza que el SGSI reciba los recursos necesarios, fomenta una cultura de seguridad en toda la organización y asegura el cumplimiento de los objetivos de seguridad.
